@@ -1,7 +1,6 @@
 package ru.netology.web.step;
 
 import cucumber.api.java.ru.Пусть;
-import lombok.var;
 import ru.alfabank.alfatest.cucumber.api.AkitaScenario;
 import ru.netology.web.data.DataHelper;
 import ru.netology.web.page.LoginPage;
